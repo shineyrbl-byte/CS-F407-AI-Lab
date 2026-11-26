@@ -52,6 +52,9 @@ Bayesian networks and autoregressive language models, including conditional
 probability tables, first-order and second-order language models,
 next-word prediction, and probabilistic text generation.
 
+### Lab 08 - Reinforcement Learning & Deep RL
+**Folder:** `Lab-08-RL`
+
 ## Topics Covered
 
 - Neural networks and learning
